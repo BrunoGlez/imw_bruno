@@ -36,7 +36,13 @@ Una máquina Debian a la que se accede mediante SSH.
 
 #### ***Desarrollo***. <a name="id4"></a>
 
-En esta parte explicamos detalladamente los pasos que seguimos para realizar la práctica incluyendo capturas de pantalla y explicando que vemos en ellas. 
+Creamos en la carpeta de webapps la carpeta shared.
+
+![](img/1.PNG)
+
+Y dentro de shared movemos la práctica anterior con el comando cp.
+
+![](img/2.PNG)
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
 
