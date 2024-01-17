@@ -100,9 +100,9 @@ Hacemos un tree en el directorio wp-content para ver los archivos que contiene e
 
 Lo último que tendríamos que hacer sería el crear una página web que contenga lo incluido en el principio de la práctica, las estadísticas de Wordpress. Lo hacemos usando la interfaz de Wordpress.
 
-IMPORTANTE: El nombre del archivo Nginx se cambió a wordpress.bruno.me aal finalizar la práctica a petición del profesor.
-
 ![](img/17.png)
+
+IMPORTANTE: El nombre del archivo Nginx se cambió a wordpress.bruno.me al finalizar la práctica a petición del profesor.
 
 #### ***Conclusiones***. <a name="id5"></a>
 
